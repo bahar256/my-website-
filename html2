@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    <h1>i hope you will like page!</h1>
+    <h2>lwt mw tell you about mt self i am 15 years old i have been studying english from when i was like nine <br> years old and yeah nothing espacial about me though!</h2>
+    <a href="index.html">:></a>
+    
+</body>
+</html>
